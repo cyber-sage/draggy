@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/draggy/static/css/main.62de9910.chunk.css",
-    "main.js": "/draggy/static/js/main.85b3644b.chunk.js",
-    "main.js.map": "/draggy/static/js/main.85b3644b.chunk.js.map",
+    "main.js": "/draggy/static/js/main.47150eab.chunk.js",
+    "main.js.map": "/draggy/static/js/main.47150eab.chunk.js.map",
     "runtime-main.js": "/draggy/static/js/runtime-main.b642d7b6.js",
     "runtime-main.js.map": "/draggy/static/js/runtime-main.b642d7b6.js.map",
     "static/js/2.c77923d8.chunk.js": "/draggy/static/js/2.c77923d8.chunk.js",
@@ -19,6 +19,6 @@
     "static/js/runtime-main.b642d7b6.js",
     "static/js/2.c77923d8.chunk.js",
     "static/css/main.62de9910.chunk.css",
-    "static/js/main.85b3644b.chunk.js"
+    "static/js/main.47150eab.chunk.js"
   ]
 }
