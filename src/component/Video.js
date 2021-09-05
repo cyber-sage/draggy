@@ -23,7 +23,11 @@ const VideoDrag=(props)=>{
 return (
 
 <div className="video-div" 
-  id={props.id} draggable={true} onDragStart={dragStart} onDragOver={dragOver}>
+  id={props.id} draggable={true} onDragStart={dragStart} onDragOver={dragOver}
+   ontouchstart = {dragStart} ontouchend={dragOver}
+  
+  
+  >
     <video width="200" height="240" controls>
         <source src={Video} type="video/mp4"/>
     </video>

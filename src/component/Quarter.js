@@ -20,7 +20,7 @@ const Quarter = (props)=>{
   return(
 
    <div className={`main-div ${props.data}`}
-       onDrop={drop} onDragOver={dragOver}
+       onDrop={drop} onDragOver={dragOver} ontouchend={drop}
    >
        
        {props.last ? <VideoDrag id="video-1"/> : null}

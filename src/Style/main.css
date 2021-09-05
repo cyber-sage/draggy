@@ -38,6 +38,7 @@ html,body{
 .video-div{
  position: absolute;
  bottom: 0;
+ 
 }
 video{
     max-width: 100%;
