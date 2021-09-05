@@ -8,9 +8,15 @@ const VideoDrag=(props)=>{
       const target = e.target;
       e.dataTransfer.setData('video_id',target.id);
       const data=e.target.childNodes;
+      data[0].pause();
+
+      setTimeout(()=>{
+                target.style.display="none";
+
+      },0);
     //   data[0].pause();
     // console.log(e.target.childNodes); 
-    data[0].pause();
+    
 
       
   }
