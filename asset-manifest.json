@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/draggy/static/css/main.62de9910.chunk.css",
+    "main.js": "/draggy/static/js/main.85b3644b.chunk.js",
+    "main.js.map": "/draggy/static/js/main.85b3644b.chunk.js.map",
+    "runtime-main.js": "/draggy/static/js/runtime-main.b642d7b6.js",
+    "runtime-main.js.map": "/draggy/static/js/runtime-main.b642d7b6.js.map",
+    "static/js/2.c77923d8.chunk.js": "/draggy/static/js/2.c77923d8.chunk.js",
+    "static/js/2.c77923d8.chunk.js.map": "/draggy/static/js/2.c77923d8.chunk.js.map",
+    "static/js/3.fb847fb1.chunk.js": "/draggy/static/js/3.fb847fb1.chunk.js",
+    "static/js/3.fb847fb1.chunk.js.map": "/draggy/static/js/3.fb847fb1.chunk.js.map",
+    "index.html": "/draggy/index.html",
+    "static/css/main.62de9910.chunk.css.map": "/draggy/static/css/main.62de9910.chunk.css.map",
+    "static/js/2.c77923d8.chunk.js.LICENSE.txt": "/draggy/static/js/2.c77923d8.chunk.js.LICENSE.txt",
+    "static/media/Enrique Iglesias - Finally Found You.6f78bc16.mp4": "/draggy/static/media/Enrique Iglesias - Finally Found You.6f78bc16.mp4",
+    "static/media/logo.6ce24c58.svg": "/draggy/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b642d7b6.js",
+    "static/js/2.c77923d8.chunk.js",
+    "static/css/main.62de9910.chunk.css",
+    "static/js/main.85b3644b.chunk.js"
+  ]
+}
